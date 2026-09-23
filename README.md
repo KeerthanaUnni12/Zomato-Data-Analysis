@@ -21,6 +21,8 @@ The dataset is a CSV file containing details of various restaurants listed on Zo
 - Online Order availability
 - Cuisine
 - Approximate cost for two, etc.
+- Dataset Source: Zomato Bangalore Restaurants Dataset — Kaggle
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 ---
 
